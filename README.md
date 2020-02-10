@@ -9,7 +9,7 @@ This proposal is largely inspired by FloC and TURTLEDOVE.
 ## Overview
 We aim to solve for:
 * Advertisers able to target and bid on a specific bid request by an audience segment id
-* Specific audience segment ids cannot be attributed to an individual, even when coupled with a personal identifier (email, social, etc.)
+* ??Specific audience segment ids cannot be attributed to an individual, even when coupled with a personal identifier (email, social, etc.)??
 * No Advertising ID required
 
 Requirements:
