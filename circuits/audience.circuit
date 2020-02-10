@@ -1,0 +1,9 @@
+include "../node_modules/circomlib/circuits/comparators.circom";
+
+template Segmenter() {
+  signal private input tags[1];
+
+  tag === 1;
+}
+
+component main = Segmenter()

@@ -1,0 +1,28 @@
+{
+  "name": "zk-audience-segments",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "circom": "./node_modules/circom/cli.js",
+    "snarkjs": "./node_modules/snarkjs/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therevoltingx/zk-audience-segments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therevoltingx/zk-audience-segments/issues"
+  },
+  "homepage": "https://github.com/therevoltingx/zk-audience-segments#readme",
+  "devDependencies": {
+    "circom": "0.0.35",
+    "circomlib": "0.0.20",
+    "jasmine": "^3.5.0",
+    "json-bigint": "^0.3.0",
+    "snarkjs": "^0.1.20"
+  }
+}
