@@ -17,7 +17,7 @@ Requirements:
 
 ## Implementation
 * The browser builds a list of segment IDs for a given user
-* The publisher uses the segmentation API to retrieve a zkSNARK circuit which can be included in an ad request
+* The publisher uses the segmentation API to retrieve a zkSNARK proof which can be included in an ad request
 
 ### zkSNARK
 A zkSNARK is a specific type of cryptographic proof that we can use to prove inclusion of a segment id without revealing any of the ids.
