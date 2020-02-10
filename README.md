@@ -22,7 +22,7 @@ Requirements:
 ### zkSNARK
 A zkSNARK is a specific type of cryptographic proof that we can use to prove inclusion of a segment id without revealing any of the ids.
 
-The zkSNARK proof is built by the browser to include the list of acceptable segment ids by the industry. 
+The zkSNARK proof is built by the browser to include the list of user segment ids. 
 
 The circuit is stored in a publicly accessible way such as a blockchain. The circuit is basically a contract of what segment ids are targetable. 
 
