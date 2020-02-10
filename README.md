@@ -24,7 +24,7 @@ A zkSNARK is a specific type of cryptographic proof that we can use to prove inc
 
 The zkSNARK proof is built by the browser to include the list of acceptable segment ids by the industry. These are basically hardcoded in the circuit. The circuit is then stored in a publicly accessible way such as a blockchain.
 
-DSPs, Exchanges, etc would use the circuit to verify that:
+DSPs, Exchanges, etc would use the circuit and proof to verify that:
 A user is in a given set of segments
 If the segments are in a list of acceptable industry segments
 This can be done without knowing the actual list of segments for a given user.
